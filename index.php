@@ -1,5 +1,6 @@
 <?php
     /*snack 1*/
+
     //parametri vari query
     $nome = $_GET['nome'];
     $età = $_GET['età'];
@@ -31,7 +32,7 @@
 
     // partenza
 
-    $paragrafoPartenza = "La.risposta.alla.domanda.fondamentale.sulla.vita.l'universo.e.tutto.quanto.è.42";
+    $paragrafoPartenza = "lorem ipsum. sit manet . nullam frigissam quesque dunit. Frase di prova impostata";
 
     //utilizzo di un array
 
